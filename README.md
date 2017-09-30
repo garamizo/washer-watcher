@@ -5,7 +5,7 @@ Washing machines cycles consistently follow a function of load size, allowing to
 
 We addressed this problem by developing the Washer-Watcher: a low-cost system that can inform all the residents the progress of the machine cycle. This device uses a accelerometer and a wifi-enabled microcontroller to measure the vibration level of the machine and broadcast it to a IoT channel on the cloud. The system is small, allowing it to be placed on top of any washing machine; and energy self-sufficient, not requiring a power cord.
 
-[[images/graph.png]]
+<img src="https://raw.githubusercontent.com/garamizo/washer-watcher/master/images/graph.PNG" width="400">
 
 # Methods
 ## Materials
@@ -14,7 +14,7 @@ We addressed this problem by developing the Washer-Watcher: a low-cost system th
 * 3.7 V Lipo battery (JST jack)
 * Breadboard and jumper wires
 
-[[images/hardware.png]]
+<img src="https://raw.githubusercontent.com/garamizo/washer-watcher/master/images/hardware.png" width="500">
 
 ## Required Arduino libraries
 1. [HUZZAH board library](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide)
